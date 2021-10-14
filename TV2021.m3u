@@ -1,0 +1,190 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/_TV_HD.jpg" group-title="Entertainment",& TV HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Big_Magic.png" group-title="Entertainment",Big Magic
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Colors.png" group-title="Entertainment",Colors
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Colors_HD.png" group-title="Entertainment",Colors HD 1
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Colors_HD.png" group-title="Entertainment",Colors HD 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Sony_Pal.jpg" group-title="Entertainment",Sony Pal 1
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Sony_Pal.jpg" group-title="Entertainment",Sony Pal 2
+https://bit.ly/30a3wsONyPal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Sony_SAB.png" group-title="Entertainment",Sony SAB 1
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Sony_SAB.png" group-title="Entertainment",Sony SAB 2
+https://bit.ly/3fBsABhd 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/SET_HD.png" group-title="Entertainment",SONY HD 1
+https://bit.ly/3fKTNU8seTHd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/SET_HD.png" group-title="Entertainment",SONY HD 2
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/StarPlus_HD.png" group-title="Entertainment",Star Plus HD 1
+http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/StarPlus_HD.png" group-title="Entertainment",Star Plus HD 2
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Star_Utsav.png" group-title="Entertainment",STAR Utsav
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Utsav_Plus_HD.png" group-title="Entertainment",Utsav Plus
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Utsav_Plus_HD.png" group-title="Entertainment",Utsav Plus HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_TV_HD.png" group-title="Entertainment",Zee TV 1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_TV_HD.png" group-title="Entertainment",Zee TV 2
+https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2837
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD 2
+http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Anmol.png" group-title="Entertainment",Zee Anmol
+
+_____________________________________________________________________________________________________________________________________
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Marathi.png" group-title="Entertainment",Zee Marathi
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Marathi_HD.png" group-title="Entertainment",Zee Marathi HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Fakt_Marathi.png" group-title="Entertainment",Fakt Marathi
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Colors_Marathi.jpg" group-title="Entertainment",Colors Marathi
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Maiboli.png" group-title="Entertainment",Maiboli
+https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in_360p/index.m3u8
+_____________________________________________________________________________________________________________________________________
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/_pictures.png" group-title="Movies",&pictures
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Old_Movies.jpg" group-title="Movies",Old Movies
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Bflix_Movies.jpg" group-title="Movies",Bflix Movies 1
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Bflix_Movies.jpg" group-title="Movies",Bflix Movies 2
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/B4U_Kadak.jpg" group-title="Movies",B4U Kadak 1
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/B4U_Kadak.jpg" group-title="Movies",B4U Kadak 2
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/B4U_MOVIES.png" group-title="Movies",B4U Movies
+http://173.199.120.51/hls/b4umovies.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Box_Cinema.jpg" group-title="Movies",Box Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Firangi.png" group-title="Movies",Firangi
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Filmy.png" group-title="Movies",Filmy
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Maha_Movie.jpg" group-title="Movies",Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Utv_Action.png" group-title="Movies",UTV Action
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Manoranjan_Movies.jpg" group-title="Movies",Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Movie_Plus.jpg" group-title="Movies",Movie Plus
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Colors_Cineplex.png" group-title="Movies",Colors Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Star_Gold_HD.png" group-title="Movies",Star Gold HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Sony_Max_HD.png" group-title="Movies",Sony Max HD 
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Sony_Max_2.jpg" group-title="Movies",Sony Max2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Sony_Wah.jpg" group-title="Movies",Sony Wah
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Wow_Cinema.jpg" group-title="Movies",WOW Cinema
+https://itvoign.multitvsolution.com/idvo/wowcinema.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Cinema.png" group-title="Movies",Zee Cinema 1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Cinema.png" group-title="Movies",Zee Cinema 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Cinema_HD.jpg" group-title="Movies",Zee Cinema HD
+http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Action.png" group-title="Movies",Zee Action 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/187
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Action.png" group-title="Movies",Zee Action 2
+http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Bollywood.jpg" group-title="Movies",Zee Bollywood 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Classic.jpg" group-title="Movies",Zee Classic
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Anmol_Cinema.png" group-title="Movies",Zee Anmol Cinema
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Talkies_HD.png" group-title="Movies",Zee Talkies HD 1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_Talkies_HD.png" group-title="Movies",Zee Talkies HD 2
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86078
+
+_____________________________________________________________________________________________________________________________________
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_News.jpg" group-title="News",Zee News 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86077
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Zee_News.jpg" group-title="News",Zee News 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/News18_Bharat.png" group-title="News",News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Aaj_Tak.png" group-title="News",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/News_24_new.jpg" group-title="News",News 24 1
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/News_24_new.jpg" group-title="News",News 24 2
+https://m-c09-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/ABP_News.png" group-title="News",ABP News 1
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/ABP_News.png" group-title="News",ABP News 2
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Republic_Bharat.jpg" group-title="News",Republic Bharat
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/NDTV_24x7.png" group-title="News",NDTV 24x7 ENG
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/NDTV_24x7.png" group-title="News",NDTV 24x7
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/News_India.jpg" group-title="News",News India
+https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/India_News.png" group-title="News",India News
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/India_TV.jpg" group-title="News",India TV 1
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/India_TV.jpg" group-title="News",India TV 2
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0091.IndiaTV.in.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Tej_News.jpg" group-title="News",Tez
+https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_4/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/TV9_Bharatwarsh.jpg" group-title="News",Tv9 Bharatwarsh
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/ABP_Majha.png" group-title="News",ABP Majha 1
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7016.ABPMajha.in.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/ABP_Majha.png" group-title="News",ABP Majha 2
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master_764.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/News18_Lokmat.jpg" group-title="News",News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Saam_TV.jpg" group-title="News",Saam TV News
+https://live.wmncdn.net/saam/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/TV9_Marathi_News.jpg" group-title="News",Tv9 Marathi
+
+_____________________________________________________________________________________________________________________________________
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Discovery-Kids.png" group-title="Kids",Discovery Kids
+http://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Hungama_TV.png" group-title="Kids",Hungama
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Nick HD+.png" group-title="Kids",Nick
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Pogo.png" group-title="Kids",POGO
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Cartoon_Network.png" group-title="Kids",Cartoon Network
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Sonic.jpg" group-title="Kids",Sonic
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Sonyyay.png" group-title="Kids",Sony Yay
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Wow_Kids.png" group-title="Kids",Wow Kids
+http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/Shemaroo_TV.png" group-title="Kids",Shemaroo TV
+https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in_480p/index.m3u8
+
+_____________________________________________________________________________________________________________________________________
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ayanshcinematic/logo/main/National_Geographic_HD.png" group-title="Documentry",National Geographic HD
